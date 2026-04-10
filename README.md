@@ -29,6 +29,11 @@ It processes transaction data, generates a report, and automates the workflow.
 2. Process transactions
 3. Generate report
 4. Save output file
+# My Project
 
-Open:
-http://localhost:8089
+## Screenshots
+
+## Screenshots
+
+![Screenshot](images/screenshot1.jpeg)
+![Screenshot](images/screenshot2.jpeg)
