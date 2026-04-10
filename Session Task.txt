@@ -1,0 +1,12 @@
+Create a DAG with 2 tasks using BashOperator:
+
+First task prints "Pipeline started"
+Second task runs a Python command to print all data from the file egypt.txt
+
+----------------ُ---------------------
+Egypt.txt
+
+Egypt is a country in North Africa known for its ancient civilization and iconic monuments such as the Pyramids of Giza and the Sphinx. 
+The capital city, Cairo, is the largest in the Arab world and home to the Nile River, the longest river in the world. 
+Egypt has a rich cultural heritage blending Pharaonic, Greco-Roman, Islamic, and modern influences. 
+Tourism, agriculture, and the Suez Canal are major contributors to its economy.
