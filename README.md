@@ -21,6 +21,14 @@ File created:
 
 ## 🚀 Run
 docker compose -f airflow.yaml up -d
+## 📌 Project Description
+This project implements an ETL pipeline using Apache Airflow.
+It processes transaction data, generates a report, and automates the workflow.
+## 🔄 DAG Workflow
+1. Start
+2. Process transactions
+3. Generate report
+4. Save output file
 
 Open:
 http://localhost:8089
