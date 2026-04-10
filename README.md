@@ -31,5 +31,5 @@ It processes transaction data, generates a report, and automates the workflow.
 4. Save output file
 ## Screenshots
 
-![Screenshot](images/Screenshot1.jpeg)
-![Screenshot](images/Screenshot2.jpeg)
+![Screenshot](images/screenshot1.jpeg)
+![Screenshot](images/screenshot2.jpeg)
