@@ -30,5 +30,11 @@ It processes transaction data, generates a report, and automates the workflow.
 3. Generate report
 4. Save output file
 
-Open:
-http://localhost:8089
+# My Project
+
+## Screenshots
+
+## Screenshots
+
+![Screenshot](images/screenshot1.jpeg)
+![Screenshot](images/screenshot2.jpeg)
